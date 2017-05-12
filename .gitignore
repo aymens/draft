@@ -9,3 +9,7 @@ buildNumber.properties
 .mvn/timing.properties
 /child-two/target
 /child-one/target
+/.project
+.settings
+.classpath
+.project
