@@ -4,11 +4,11 @@
   <parent>
     <groupId>a.b.c</groupId>
     <artifactId>parent</artifactId>
-    <version>3.0.0</version>
+    <version>3.0.1-SNAPSHOT</version>
   </parent>
   <groupId>a.b.c</groupId>
   <artifactId>child-one</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>child-one</name>
   <url>http://maven.apache.org</url>
   <properties>
