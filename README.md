@@ -1,2 +1,2 @@
 # draft
-Sample maven project with child modules intended to run tests of maven release plugins.
+Sample maven project with child modules intended to run tests of maven release plugin, testing git-secret, ...
